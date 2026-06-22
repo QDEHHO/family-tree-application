@@ -11,3 +11,16 @@ Features:
 Technologies:
 - Python
 - OOP
+
+Characters:
+- Friedrich Emmersohn
+- Helga Emmersohn
+- Elisabeth Emmersohn
+- Hans Emmersohn
+- Otto Emmersohn
+- Sophie Emmersohn
+- Amar Singh
+- Priya Singh
+- Cornelia Emmersohn
+- Ravi Singh
+- Maria Singh.
